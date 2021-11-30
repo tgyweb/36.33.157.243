@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>质保书明细</title>
+    <link rel="shortcut icon" href="http://36.33.157.243:8989/csms/iplat.ico" type="image/x-icon">
+</head>
+
+<body>
+
+<input id="certificateNo" value="" type="hidden">
+
+<div id="QRcode" align="center">MS211029C141200556428<br>L1P0106017<br>冷轧钢带<br>Q/MGB 539 SPCC FB D<br>
+    FA217743251 1.40*1250*C 8.650000<br>
+    FA217743252 1.40*1250*C 8.835000<br>
+    FA217743253 1.40*1250*C 8.955000<br>
+    FA217743254 1.40*1250*C 9.270000<br>
+    FA217743255 1.40*1250*C 9.590000<br>
+    FA217743256 1.40*1250*C 10.050000<br>
+    total   55.3500000<br></div>
+
+</body></html>
